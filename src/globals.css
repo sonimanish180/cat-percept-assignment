@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.percept {
+    width: 100vw;
+    height: 100vh;
+    font: 10px
+}
+
+
+@import "../src/components/screens/homePage/_homePage.scss";
+@import "../src/components/catListComponent/_catListCompoennt.scss";
+@import "../src/components/catDetailComponent/_catDetailComponent.scss";
